@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+void area();
 void main(){
 	float r,a, PI = 3.14159;
 	printf("Enter the radius.");

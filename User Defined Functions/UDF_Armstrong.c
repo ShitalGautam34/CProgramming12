@@ -2,7 +2,7 @@
 void check(int);
 
 void main(){
-	int n, rem, temp=0, original;
+	int n;
 	printf("Enter a number.");
 	scanf("%d",&n);
 	check(n);

@@ -1,5 +1,5 @@
 #include<stdio.h>
-void area(int);
+void area(float);
 
 void main(){
 	float r;
@@ -8,7 +8,7 @@ void main(){
 	area(r);
 }
 
-void area(int r){
+void area(float r){
 	float a, PI = 3.14159;
 	a = PI * r * r;
 	printf("The area of circle is %f.",a);

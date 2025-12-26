@@ -1,4 +1,3 @@
-ilu	gai	50.00
-shree	danda	400.00
-vg	baglung	45.00
-lams	kuireni	30.00
+Ram	gaindakot  50.00
+Hari	chitwan	40.00
+Samir	baglung	45.00
